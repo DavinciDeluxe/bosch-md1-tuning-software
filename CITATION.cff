@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "Bosch MD1 ECU Calibration Software — Latest SPC58/Aurix Euro 6d/6e diesel ECU (MD1CS001, MD1CS003, MD1CS004, MD1CS006, MD1CP001, MD1CP004, MD1CE100) (v1.0.44)"
+version: "1.0.44"
+date-released: "2026-11-06"
+url: "https://www.davincideluxe.fr/bosch-md1-tuning-software"
+repository-code: "https://github.com/DavinciDeluxe/bosch-md1-tuning-software"
+authors:
+  - name: "Roland & The DaVinci Deluxe Engineering Team"
