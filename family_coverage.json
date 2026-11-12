@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-md1-tuning-software",
     "https://www.aesoftech.eu/bosch-md1-tuning-software"
   ],
-  "matched_variants_count": 147,
+  "matched_variants_count": 144,
   "brands": {
     "BMW": [
       "MD1CP002",
@@ -22,9 +22,7 @@
       "MDG1",
       "MDG1G",
       "MDG1GI2S",
-      "MDG1IG",
-      "MDG1_MD1CP002",
-      "MDG1_MD1CS001"
+      "MDG1IG"
     ],
     "MINI": [
       "MD1CP002",
@@ -33,9 +31,7 @@
       "MDG1",
       "MDG1G",
       "MDG1GI2S",
-      "MDG1IG",
-      "MDG1_MD1CP002",
-      "MDG1_MD1CS001"
+      "MDG1IG"
     ],
     "FIAT": [
       "MD1CS006",
@@ -58,6 +54,12 @@
     ],
     "JAC": [
       "MD1CS089"
+    ],
+    "LAND ROVER": [
+      "MD1CP007"
+    ],
+    "JAGUAR": [
+      "MD1CP007"
     ],
     "MAHINDRA": [
       "MD1CS018"
@@ -223,7 +225,6 @@
     ],
     "CASE IH": [
       "MD1CE101",
-      "MD1CE101_C1",
       "MD1CS069"
     ],
     "HIDROMEK": [
