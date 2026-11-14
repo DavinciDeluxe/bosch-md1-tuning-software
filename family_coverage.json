@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-md1-tuning-software",
     "https://www.aesoftech.eu/bosch-md1-tuning-software"
   ],
-  "matched_variants_count": 144,
+  "matched_variants_count": 146,
   "brands": {
     "BMW": [
       "MD1CP002",
@@ -56,10 +56,12 @@
       "MD1CS089"
     ],
     "LAND ROVER": [
-      "MD1CP007"
+      "MD1CP007",
+      "MD1CS007"
     ],
     "JAGUAR": [
-      "MD1CP007"
+      "MD1CP007",
+      "MD1CS007"
     ],
     "MAHINDRA": [
       "MD1CS018"
