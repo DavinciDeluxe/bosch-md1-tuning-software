@@ -219,21 +219,13 @@
     "FOLRD TOURNEO": [
       "MD1CS005"
     ],
-    "MAN TRUCKS": [
-      "MD1CE100"
-    ],
-    "SCANIA": [
-      "EMS8-EMD1"
-    ],
-    "CLAAS": [
-      "MD1CE101"
-    ],
     "CASE IH": [
       "MD1CE101",
       "MD1CS069"
     ],
-    "HIDROMEK": [
-      "MD1CS003"
+    "IVECO": [
+      "MD1CE101",
+      "MD1CS069"
     ],
     "NEW HOLLAND": [
       "MD1CE101",
@@ -247,9 +239,17 @@
       "MD1CE101",
       "MD1CS069"
     ],
-    "IVECO": [
-      "MD1CE101",
-      "MD1CS069"
+    "MAN TRUCKS": [
+      "MD1CE100"
+    ],
+    "SCANIA": [
+      "EMS8-EMD1"
+    ],
+    "CLAAS": [
+      "MD1CE101"
+    ],
+    "HIDROMEK": [
+      "MD1CS003"
     ]
   }
 }
