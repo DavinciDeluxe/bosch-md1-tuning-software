@@ -39,7 +39,7 @@
 | **NEW HOLLAND** | 2 | `MD1CE101`, `MD1CS069` |
 | **STEYR** | 2 | `MD1CE101`, `MD1CS069` |
 | **FPT INDUSTRIAL** | 2 | `MD1CE101`, `MD1CS069` |
-| **HYUNDAI** | 1 | `MD1CS012` |
+| **ALFA ROMEO** | 1 | `MD1CS069` |
 
 👉 **[Open the full Bosch MD1 guide & test your file free at https://www.davincideluxe.fr/bosch-md1-tuning-software →](https://www.davincideluxe.fr/bosch-md1-tuning-software)**
 
