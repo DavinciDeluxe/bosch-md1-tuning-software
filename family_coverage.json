@@ -12,7 +12,7 @@
     "https://www.davincideluxe.it/bosch-md1-tuning-software",
     "https://www.aesoftech.eu/bosch-md1-tuning-software"
   ],
-  "matched_variants_count": 147,
+  "matched_variants_count": 152,
   "brands": {
     "BMW": [
       "MD1CP002",
@@ -35,6 +35,21 @@
     ],
     "FIAT": [
       "MD1CS006",
+      "MD1CS069"
+    ],
+    "ALFA ROMEO": [
+      "MD1CS069"
+    ],
+    "LANCIA": [
+      "MD1CS069"
+    ],
+    "JEEP": [
+      "MD1CS069"
+    ],
+    "ABARTH": [
+      "MD1CS069"
+    ],
+    "CHRYSLER": [
       "MD1CS069"
     ],
     "FORD": [
