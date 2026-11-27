@@ -14,6 +14,30 @@
   ],
   "matched_variants_count": 152,
   "brands": {
+    "PEUGEOT": [
+      "MD1",
+      "MD1CS003",
+      "MD1CSOO3"
+    ],
+    "ABARTH": [
+      "MD1CS069"
+    ],
+    "ALFA ROMEO": [
+      "MD1CS069"
+    ],
+    "AUDI": [
+      "MD1CP001",
+      "MD1CP004",
+      "MD1CP014",
+      "MD1CS001",
+      "MD1CS004",
+      "MD1CS006",
+      "MD1CS014",
+      "MDG1"
+    ],
+    "OPEL": [
+      "MD1CS003"
+    ],
     "BMW": [
       "MD1CP002",
       "MD1CP02",
@@ -33,24 +57,63 @@
       "MDG1GI2S",
       "MDG1IG"
     ],
-    "FIAT": [
+    "BENTLEY": [
+      "MD1CP001",
+      "MD1CP004",
+      "MD1CP014",
+      "MD1CS001",
+      "MD1CS004",
       "MD1CS006",
-      "MD1CS069"
+      "MD1CS014",
+      "MDG1"
     ],
-    "ALFA ROMEO": [
-      "MD1CS069"
+    "CHEVROLET": [
+      "MD1CS003"
     ],
-    "LANCIA": [
+    "CITROËN": [
+      "MD1CS003"
+    ],
+    "CHRYSLER": [
       "MD1CS069"
     ],
     "JEEP": [
       "MD1CS069"
     ],
-    "ABARTH": [
+    "CUPRA": [
+      "MD1CP001",
+      "MD1CP004",
+      "MD1CP014",
+      "MD1CS001",
+      "MD1CS004",
+      "MD1CS006",
+      "MD1CS014",
+      "MDG1"
+    ],
+    "DACIA": [
+      "MD1CS005",
+      "MD1CS006",
+      "MD1CS016"
+    ],
+    "VAUXHALL": [
+      "MD1CS003"
+    ],
+    "DS": [
+      "MD1CS003"
+    ],
+    "MERCEDES-BENZ": [
+      "MD1",
+      "MD1CP001",
+      "MD1CS006"
+    ],
+    "FIAT": [
+      "MD1CS006",
       "MD1CS069"
     ],
-    "CHRYSLER": [
+    "LANCIA": [
       "MD1CS069"
+    ],
+    "FOLRD TOURNEO": [
+      "MD1CS005"
     ],
     "FORD": [
       "MD1",
@@ -67,24 +130,37 @@
     "KIA": [
       "MD1CS012"
     ],
+    "INFINITI": [
+      "MD1CS005",
+      "MD1CS006",
+      "MD1CS016"
+    ],
     "JAC": [
       "MD1CS089"
     ],
-    "LAND ROVER": [
-      "MD1CP007",
-      "MD1CS007"
+    "JMC": [
+      "MD1CS089"
     ],
     "JAGUAR": [
       "MD1CP007",
       "MD1CS007"
     ],
+    "LAND ROVER": [
+      "MD1CP007",
+      "MD1CS007"
+    ],
+    "LAMBORGHINI": [
+      "MD1CP001",
+      "MD1CP004",
+      "MD1CP014",
+      "MD1CS001",
+      "MD1CS004",
+      "MD1CS006",
+      "MD1CS014",
+      "MDG1"
+    ],
     "MAHINDRA": [
       "MD1CS018"
-    ],
-    "MERCEDES-BENZ": [
-      "MD1",
-      "MD1CP001",
-      "MD1CS006"
     ],
     "SMART": [
       "MD1",
@@ -96,42 +172,22 @@
       "MD1CP001",
       "MD1CS006"
     ],
-    "OPEL": [
-      "MD1CS003"
-    ],
-    "CHEVROLET": [
-      "MD1CS003"
-    ],
-    "VAUXHALL": [
-      "MD1CS003"
-    ],
-    "PEUGEOT": [
-      "MD1",
-      "MD1CS003",
-      "MD1CSOO3"
-    ],
-    "CITROËN": [
-      "MD1CS003"
-    ],
-    "DS": [
-      "MD1CS003"
-    ],
-    "RENAULT": [
-      "MD1CS005",
-      "MD1CS006",
-      "MD1CS016"
-    ],
-    "DACIA": [
-      "MD1CS005",
-      "MD1CS006",
-      "MD1CS016"
-    ],
     "NISSAN": [
       "MD1CS005",
       "MD1CS006",
       "MD1CS016"
     ],
-    "INFINITI": [
+    "PORSCHE": [
+      "MD1CP001",
+      "MD1CP004",
+      "MD1CP014",
+      "MD1CS001",
+      "MD1CS004",
+      "MD1CS006",
+      "MD1CS014",
+      "MDG1"
+    ],
+    "RENAULT": [
       "MD1CS005",
       "MD1CS006",
       "MD1CS016"
@@ -140,29 +196,6 @@
       "MD1CS005",
       "MD1CS006",
       "MD1CS016"
-    ],
-    "TOYOTA": [
-      "MD1CS003"
-    ],
-    "VOLKSWAGEN": [
-      "MD1CP001",
-      "MD1CP004",
-      "MD1CP014",
-      "MD1CS001",
-      "MD1CS004",
-      "MD1CS006",
-      "MD1CS014",
-      "MDG1"
-    ],
-    "AUDI": [
-      "MD1CP001",
-      "MD1CP004",
-      "MD1CP014",
-      "MD1CS001",
-      "MD1CS004",
-      "MD1CS006",
-      "MD1CS014",
-      "MDG1"
     ],
     "SEAT": [
       "MD1CP001",
@@ -184,37 +217,10 @@
       "MD1CS014",
       "MDG1"
     ],
-    "CUPRA": [
-      "MD1CP001",
-      "MD1CP004",
-      "MD1CP014",
-      "MD1CS001",
-      "MD1CS004",
-      "MD1CS006",
-      "MD1CS014",
-      "MDG1"
+    "TOYOTA": [
+      "MD1CS003"
     ],
-    "PORSCHE": [
-      "MD1CP001",
-      "MD1CP004",
-      "MD1CP014",
-      "MD1CS001",
-      "MD1CS004",
-      "MD1CS006",
-      "MD1CS014",
-      "MDG1"
-    ],
-    "LAMBORGHINI": [
-      "MD1CP001",
-      "MD1CP004",
-      "MD1CP014",
-      "MD1CS001",
-      "MD1CS004",
-      "MD1CS006",
-      "MD1CS014",
-      "MDG1"
-    ],
-    "BENTLEY": [
+    "VOLKSWAGEN": [
       "MD1CP001",
       "MD1CP004",
       "MD1CP014",
@@ -228,19 +234,12 @@
       "MD1CP002",
       "MD1CS089"
     ],
-    "JMC": [
-      "MD1CS089"
-    ],
-    "FOLRD TOURNEO": [
-      "MD1CS005"
-    ],
     "CASE IH": [
       "MD1CE101",
       "MD1CS069"
     ],
-    "IVECO": [
-      "MD1CE101",
-      "MD1CS069"
+    "CLAAS": [
+      "MD1CE101"
     ],
     "NEW HOLLAND": [
       "MD1CE101",
@@ -254,17 +253,18 @@
       "MD1CE101",
       "MD1CS069"
     ],
+    "HIDROMEK": [
+      "MD1CS003"
+    ],
+    "IVECO": [
+      "MD1CE101",
+      "MD1CS069"
+    ],
     "MAN TRUCKS": [
       "MD1CE100"
     ],
     "SCANIA": [
       "EMS8-EMD1"
-    ],
-    "CLAAS": [
-      "MD1CE101"
-    ],
-    "HIDROMEK": [
-      "MD1CS003"
     ]
   }
 }
