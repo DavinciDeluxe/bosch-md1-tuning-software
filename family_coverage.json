@@ -159,9 +159,6 @@
       "MD1CS014",
       "MDG1"
     ],
-    "MAHINDRA": [
-      "MD1CS018"
-    ],
     "SMART": [
       "MD1",
       "MD1CP001",
@@ -171,6 +168,9 @@
       "MD1",
       "MD1CP001",
       "MD1CS006"
+    ],
+    "MAHINDRA": [
+      "MD1CS018"
     ],
     "NISSAN": [
       "MD1CS005",
